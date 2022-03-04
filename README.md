@@ -148,6 +148,7 @@ To validate `rosetta-bitcoin`, [install `rosetta-cli`](https://github.com/coinba
 <<<<<<< HEAD
 
 Interested in helping fix issues in this repository? You can find to-dos in the [Issues](https://github.com/coinbase/rosetta-bitcoin/issues) section with the `help wanted` tag. Be sure to reach out on our [community](https://community.rosetta-api.org) before you tackle anything on this list.
+<<<<<<< HEAD
 =======
 =======
 
@@ -158,6 +159,8 @@ Interested in helping fix issues in this repository? You can find to-dos in the 
 =======
 >>>>>>> f96f966 (Update README file)
 >>>>>>> 7713a64 (Update README file)
+=======
+>>>>>>> b65cc77 (Merge conflict resolution in README)
 
 ## Development
 * `make deps` to install dependencies
